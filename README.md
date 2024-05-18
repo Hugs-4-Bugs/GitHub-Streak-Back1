@@ -25,17 +25,17 @@ After cloning :
 ## Install some npm packages :
 
       `npm i json file`
-      
 
+1. 
       `npm i moment`
       
-
+2.
       `npm i simple-git`
       
-
+3.
       `npm install dotenv`
       
-
+4.
       `npm install jsonfile`
 
 
