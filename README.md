@@ -15,7 +15,7 @@ Make a github repository and clone it.
 
 For cloning git repo :
 
-    git clone "ssh link of repo"
+    git clone <SSH/HTTPS link of repo>
 
 After cloning :
 
@@ -50,7 +50,7 @@ After cloning :
 ## For running js file : 
 
 
-    node "fileName"
+    node <fileName>
 
 
 
