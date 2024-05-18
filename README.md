@@ -5,6 +5,7 @@ This repository contains hwo you can easily get broken github streak back easily
 
 
 ## Install Git in your PC.
+
 Setup git for cloning repository.
 Install Node JS.
 Make a github repository and clone it.
@@ -12,24 +13,30 @@ Make a github repository and clone it.
 
 ## Commands :
 
-For cloning git repo : git clone "ssh link of repo"
+For cloning git repo :
+     `git clone "ssh link of repo"`
 
-After cloning : npm init
-
-Install some npm packages :
-
-npm i json file
-
-npm i moment
-
-npm i simple-git
-
-npm install dotenv
-
-npm install jsonfile
+After cloning :
+     `npm init`
 
 
-For running js file : node "fileName"
+## Install some npm packages :
+
+      `npm i json file`
+
+      `npm i moment`
+
+      `npm i simple-git`
+
+      `npm install dotenv`
+
+      `npm install jsonfile`
+
+
+## For running js file : 
+`node "fileName"`
+
+
 
 After running wait for 1 - 3 hours, it takes some time to get sreak back.
 
