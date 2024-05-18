@@ -14,21 +14,27 @@ Make a github repository and clone it.
 ## Commands :
 
 For cloning git repo :
+
      `git clone "ssh link of repo"`
 
 After cloning :
+
      `npm init`
 
 
 ## Install some npm packages :
 
       `npm i json file`
+      
 
       `npm i moment`
+      
 
       `npm i simple-git`
+      
 
       `npm install dotenv`
+      
 
       `npm install jsonfile`
 
