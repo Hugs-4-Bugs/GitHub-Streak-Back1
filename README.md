@@ -15,42 +15,42 @@ Make a github repository and clone it.
 
 For cloning git repo :
 
-    `git clone "ssh link of repo"`
+    git clone "ssh link of repo"
 
 After cloning :
 
-    `npm init`
+    npm init
 
 
 ## Install some npm packages :
 1.
 
-      `npm i json file`
+      npm i json file
 2.
       
 
-      `npm i moment`
+      npm i moment
 
 3. 
       
 
-      `npm i simple-git`
+       npm i simple-git
 
 4.
       
 
-      `npm install dotenv`
+      npm install dotenv
 
 5.
       
 
-     `npm install jsonfile`
+      npm install jsonfile
 
 
 ## For running js file : 
 
 
-   `node "fileName"`
+    node "fileName"
 
 
 
